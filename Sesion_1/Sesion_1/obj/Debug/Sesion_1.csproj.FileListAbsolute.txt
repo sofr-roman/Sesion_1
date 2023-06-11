@@ -1,0 +1,14 @@
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\bin\Debug\Sesion_1.exe.config
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\bin\Debug\Sesion_1.exe
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\bin\Debug\Sesion_1.pdb
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\bin\Debug\Guna.UI2.dll
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.csproj.AssemblyReference.cache
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.Properties.Resources.resources
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.csproj.GenerateResource.cache
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.csproj.CoreCompileInputs.cache
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.csproj.CopyComplete
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.exe
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.pdb
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.Auto.resources
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.Client.resources
+C:\Users\Преподаватель\source\repos\Sesion_1\Sesion_1\obj\Debug\Sesion_1.Manager.resources
